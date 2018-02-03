@@ -1,0 +1,4 @@
+#Sun Feb 04 02:34:15 JST 2018
+base.0=/Users/ym/workspace/kotlin-drawing/app/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex

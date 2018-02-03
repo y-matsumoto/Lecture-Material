@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">paint</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_new_board">New board</string>
+</resources>
