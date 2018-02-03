@@ -4,7 +4,6 @@
 
 ### kotlin-drawing
  - drawingアプリの最低限コード
- - kotlin
 
 ## iOS(swift)
 
