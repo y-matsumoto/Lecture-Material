@@ -2,7 +2,7 @@
 
 ## Android(kotlin)
 
-### kotlin-drawing(android)
+### kotlin-drawing
  - drawingアプリの最低限コード
  - kotlin
 
